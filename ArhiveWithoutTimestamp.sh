@@ -1,7 +1,6 @@
 #!/bin/bash
 # This script is created to backup files without adding timestamp to the files while moving.
 # Moves CSV files in the ARCHIVE dir
-# author - priyanka patil
 
 DEST_CSV=/home/prp/scripts_pri/archi/
 DEST_FDATA=/home/prp/scripts_pri/archi/new/
