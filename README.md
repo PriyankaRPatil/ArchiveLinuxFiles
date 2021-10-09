@@ -1,2 +1,3 @@
 # ArchiveLinuxFiles
-Archiving CSV or anyother type of files on linux systems (including files with spaces in their names)
+This is an easy snippet that you can use to archive files on linux servers.
+
